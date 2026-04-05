@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"d:\\bian_cheng\\C\\C_ke_cheng\\xue_xi\\2.0.c","tests":[{"id":1761478621326,"input":"3232235876\n66322345376","output":"192.168.1.100\n113.30.173.160"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\bian_cheng\\C\\C_ke_cheng\\xue_xi\\2.0.c","group":"local","local":true}

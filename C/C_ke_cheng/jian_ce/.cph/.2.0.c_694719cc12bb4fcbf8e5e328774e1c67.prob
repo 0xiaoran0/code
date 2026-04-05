@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"d:\\bian_cheng\\C\\C_ke_cheng\\jian_ce\\2.0.c","tests":[{"id":1762684474814,"input":"1234 5678","output":"5612"},{"id":1762684540007,"input":"abcd ef01","output":"efab"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\bian_cheng\\C\\C_ke_cheng\\jian_ce\\2.0.c","group":"local","local":true}

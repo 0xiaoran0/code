@@ -1,0 +1,1 @@
+{"name":"Local: 6-2","url":"d:\\bian_cheng\\C\\C_ke_cheng\\jian_ce\\6.0\\6-2.c","tests":[{"id":1766142994413,"input":"3\nbanana apple cherry","output":"1: cherry\n2: banana\n3: apple"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\bian_cheng\\C\\C_ke_cheng\\jian_ce\\6.0\\6-2.c","group":"local","local":true}

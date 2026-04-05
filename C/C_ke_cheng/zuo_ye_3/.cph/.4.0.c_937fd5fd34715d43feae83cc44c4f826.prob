@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"d:\\bian_cheng\\C\\C_ke_cheng\\zuo_ye\\4.0.c","tests":[{"id":1761875042074,"input":"1000","output":"49 121 169 196 361 441 484 529 676 784"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\bian_cheng\\C\\C_ke_cheng\\zuo_ye\\4.0.c","group":"local","local":true}

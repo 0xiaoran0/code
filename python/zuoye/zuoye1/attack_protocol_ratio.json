@@ -1,0 +1,25 @@
+{
+    "total_packets": 1733,
+    "protocol_count": {
+        "ICMP": 1,
+        "UDP": 8,
+        "TCP": 1724,
+        "TCP_SYN": 431,
+        "TCP_ACK": 225,
+        "TCP_SYN_ACK": 430,
+        "TCP_FIN": 4,
+        "TCP_RST": 638,
+        "TCP_PSH": 5
+    },
+    "protocol_percent": {
+        "ICMP": 0.06,
+        "UDP": 0.46,
+        "TCP": 99.48,
+        "TCP_SYN": 24.87,
+        "TCP_ACK": 12.98,
+        "TCP_SYN_ACK": 24.81,
+        "TCP_FIN": 0.23,
+        "TCP_RST": 36.81,
+        "TCP_PSH": 0.29
+    }
+}

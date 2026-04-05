@@ -1,0 +1,1 @@
+{"name":"Local: 1","url":"d:\\bian_cheng\\C\\C_ke_cheng\\jian_ce\\1.0.c","tests":[{"id":1761476942829,"input":"580289","output":"该数有 2 个 8，最小数字是 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\bian_cheng\\C\\C_ke_cheng\\jian_ce\\1.0.c","group":"local","local":true}
